@@ -1,0 +1,1 @@
+Corpus of annotated wiretap transcripts (2000–2023) from Mafia trials in NY and Philadelphia. Extracted via PACER/CourtListener, focusing on anti-language, trust, threat, and secrecy. Cleaned, OCR-processed, and tagged in CATMA for forensic and computational linguistic research.
